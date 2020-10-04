@@ -15,7 +15,7 @@ namespace NewCovid
 
             Dictionary<int, PatientDetails> newdic = pobject.Getpatient_detail();
      
-            pobject.Setpatient_detail();
+            //pobject.Setpatient_detail();
           
 
             AddMethod(101,"Jim",768987677,77,"Fever","YES");
