@@ -4,3 +4,7 @@ C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\NewCovid.pdb
 C:\Users\user\source\repos\NewCovid\NewCovid\obj\Debug\NewCovid.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\NewCovid\NewCovid\obj\Debug\NewCovid.exe
 C:\Users\user\source\repos\NewCovid\NewCovid\obj\Debug\NewCovid.pdb
+C:\Users\user\source\repos\NewCovid\NewCovid\obj\Debug\NewCovid.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\NewCovid\NewCovid\obj\Debug\NewCovid.csproj.CopyComplete

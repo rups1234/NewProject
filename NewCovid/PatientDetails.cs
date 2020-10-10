@@ -10,8 +10,7 @@ namespace NewCovid
     {
 
 
-        public Dictionary<int, PatientDetails> ptdata = new Dictionary<int, PatientDetails>();
-
+       
 
         public int patient_ID;
         public string patient_Name;
@@ -46,10 +45,7 @@ namespace NewCovid
         public string GetcovidPt() => covidPt;
 
 
-        public void Setpatient_detail(Dictionary<int, PatientDetails> ptdata) => this.ptdata = ptdata;
-
-        public Dictionary<int, PatientDetails> Getpatient_detail() => ptdata;
-
+      
 
     }
 

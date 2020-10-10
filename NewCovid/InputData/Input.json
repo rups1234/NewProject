@@ -1,0 +1,49 @@
+﻿{
+"PatientDetails": [
+    {
+      "patient_ID": 1,
+      "patient_Name": "Zim",
+      "patient_phone": 87887767,
+      "patient_age": 45,
+      "symptoms": "COLD",
+      "covidPt": "Positive"
+     
+    },
+    {
+      "patient_ID": 2,
+      "patient_Name": "Tim",
+      "patient_phone": 94567746,
+      "patient_age": 35,
+      "symptoms": "Fever",
+      "covidPt": "Negative"
+     
+    },
+    {
+      "patient_ID": 3,
+      "patient_Name": "Seema",
+      "patient_phone": 97889767,
+      "patient_age": 65,
+      "symptoms": "COLD",
+      "covidPt": "Positive"
+     
+    },
+    {
+       
+      "patient_ID": 4,
+      "patient_Name": "Rina",
+      "patient_phone": 74566746,
+      "patient_age": 75,
+      "symptoms": "Fever",
+      "covidPt": "Negative"
+    },
+    {
+      "patient_ID": 5,
+      "patient_Name": "Tim",
+      "patient_phone": 978878767,
+      "patient_age": 45,
+      "symptoms": "COLD",
+      "covidPt": "Positive"
+    }
+         ] 
+  
+}
