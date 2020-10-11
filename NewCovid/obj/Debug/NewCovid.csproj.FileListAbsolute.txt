@@ -8,3 +8,9 @@ C:\Users\user\source\repos\NewCovid\NewCovid\obj\Debug\NewCovid.csprojAssemblyRe
 C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\Newtonsoft.Json.dll
 C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\Newtonsoft.Json.xml
 C:\Users\user\source\repos\NewCovid\NewCovid\obj\Debug\NewCovid.csproj.CopyComplete
+C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\PdfSharp.Charting.dll
+C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\PdfSharp.dll
+C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\PdfSharp.xml
+C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\PdfSharp.Charting.xml
+C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\user\source\repos\NewCovid\NewCovid\bin\Debug\de\PdfSharp.Charting.resources.dll
